@@ -1,4 +1,4 @@
-                                                   #  GITHUB MCP AGENT
+                                                     GITHUB MCP AGENT
 
 An AI-powered Streamlit application that lets you explore and analyze GitHub repositories using natural language. Instead of manually browsing issues, pull requests, and repository metrics, this tool allows you to simply ask questions and receive structured insights powered by an AI agent.
 
