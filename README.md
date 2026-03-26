@@ -1,4 +1,4 @@
-# 🐙 GitHub MCP Agent
+                                                   #  GITHUB MCP AGENT
 
 An AI-powered Streamlit application that lets you explore and analyze GitHub repositories using natural language. Instead of manually browsing issues, pull requests, and repository metrics, this tool allows you to simply ask questions and receive structured insights powered by an AI agent.
 
@@ -6,7 +6,7 @@ The application connects to the official GitHub MCP (Model Context Protocol) ser
 
 ---
 
-# 🚀 Features
+#  Features:
 
 ### Natural Language Repository Exploration
 
@@ -55,7 +55,7 @@ No coding required to use the tool.
 
 ---
 
-# 🧠 How It Works
+#  How It Works:
 
 This project integrates three main components:
 
@@ -77,7 +77,7 @@ User Query → AI Agent → MCP Tools → GitHub API → Structured Insights
 
 ---
 
-# 📂 Project Structure
+#  Project Structure:
 
 ```
 github-mcp-agent
@@ -97,7 +97,7 @@ github-mcp-agent
 
 ---
 
-# ⚙️ Installation
+#  Installation:
 
 ### 1. Clone the repository
 
@@ -138,7 +138,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔑 Requirements
+#  Requirements:
 
 Before running the app, you need:
 
@@ -170,7 +170,7 @@ Install Docker and ensure it is running before launching the application.
 
 ---
 
-# ▶️ Running the Application
+# Running the Application:
 
 Start the Streamlit app with:
 
@@ -186,7 +186,7 @@ http://localhost:8501
 
 ---
 
-# 💡 Example Queries
+# Example Queries:
 
 Issues
 
@@ -208,7 +208,7 @@ Repository Insights
 
 ---
 
-# 📊 Use Cases
+# Use Cases:
 
 This tool can be useful for:
 
@@ -226,7 +226,7 @@ Learning how AI agents interact with real APIs.
 
 ---
 
-# ⚠️ Limitations
+# Limitations:
 
 Some features depend on:
 
@@ -238,7 +238,7 @@ Large repositories may also require longer processing times.
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used:
 
 Python
 Streamlit
@@ -248,7 +248,7 @@ Docker
 
 ---
 
-# 🤝 Contributing
+# Contributing:
 
 Contributions are welcome.
 
@@ -263,7 +263,7 @@ Suggestions, improvements, and bug reports are always appreciated.
 
 ---
 
-# 📄 License
+# License:
 
 This project is released under the MIT License.
 
@@ -271,7 +271,7 @@ You are free to use, modify, and distribute it.
 
 ---
 
-# ⭐ Support the Project
+# Support the Project
 
 If you find this project helpful:
 
